@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-01T19:58:38 IST" name="Suite1234" finished-at="2022-11-01T20:06:18 IST" duration-ms="459803">
+    <groups>
+    </groups>
+    <test started-at="2022-11-01T19:58:38 IST" name="ChromeTest" finished-at="2022-11-01T20:03:44 IST" duration-ms="305989">
+      <class name="testPack.ToVerifyDetailsInImages">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testPack.ToVerifyDetailsInImages@15c43bd9]" started-at="2022-11-01T19:59:19 IST" name="launchBrowser" finished-at="2022-11-01T19:59:28 IST" duration-ms="9558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="creatPOMObjects()[pri:0, instance:testPack.ToVerifyDetailsInImages@15c43bd9]" started-at="2022-11-01T20:01:01 IST" name="creatPOMObjects" finished-at="2022-11-01T20:01:01 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatPOMObjects -->
+        <test-method is-config="true" signature="indiaImages()[pri:0, instance:testPack.ToVerifyDetailsInImages@15c43bd9]" started-at="2022-11-01T20:01:01 IST" name="indiaImages" finished-at="2022-11-01T20:02:02 IST" duration-ms="61407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indiaImages -->
+        <test-method signature="verifyMahatmaGandhiPage()[pri:0, instance:testPack.ToVerifyDetailsInImages@15c43bd9]" started-at="2022-11-01T20:02:02 IST" name="verifyMahatmaGandhiPage" finished-at="2022-11-01T20:02:54 IST" duration-ms="51182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMahatmaGandhiPage -->
+        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:testPack.ToVerifyDetailsInImages@15c43bd9]" started-at="2022-11-01T20:02:54 IST" name="logOutFromApplication" finished-at="2022-11-01T20:02:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApplication -->
+        <test-method is-config="true" signature="indiaImages()[pri:0, instance:testPack.ToVerifyDetailsInImages@15c43bd9]" started-at="2022-11-01T20:02:54 IST" name="indiaImages" finished-at="2022-11-01T20:03:09 IST" duration-ms="15260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indiaImages -->
+        <test-method signature="verifyMoreDetailsButton()[pri:0, instance:testPack.ToVerifyDetailsInImages@15c43bd9]" started-at="2022-11-01T20:03:09 IST" name="verifyMoreDetailsButton" finished-at="2022-11-01T20:03:42 IST" duration-ms="33381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMoreDetailsButton -->
+        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:testPack.ToVerifyDetailsInImages@15c43bd9]" started-at="2022-11-01T20:03:42 IST" name="logOutFromApplication" finished-at="2022-11-01T20:03:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApplication -->
+        <test-method is-config="true" signature="clearObject()[pri:0, instance:testPack.ToVerifyDetailsInImages@15c43bd9]" started-at="2022-11-01T20:03:42 IST" name="clearObject" finished-at="2022-11-01T20:03:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearObject -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPack.ToVerifyDetailsInImages@15c43bd9]" started-at="2022-11-01T20:03:44 IST" name="closeBrowser" finished-at="2022-11-01T20:03:44 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPack.ToVerifyDetailsInImages -->
+      <class name="testPack.ToVerifyContactUsPageTestNg">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@6ca8564a]" started-at="2022-11-01T19:58:38 IST" name="launchBrowser" finished-at="2022-11-01T19:59:19 IST" duration-ms="40725" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="creatPOMObjects()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@6ca8564a]" started-at="2022-11-01T19:59:29 IST" name="creatPOMObjects" finished-at="2022-11-01T19:59:30 IST" duration-ms="1176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatPOMObjects -->
+        <test-method is-config="true" signature="contactWiki()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@6ca8564a]" started-at="2022-11-01T19:59:30 IST" name="contactWiki" finished-at="2022-11-01T20:00:02 IST" duration-ms="32719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactWiki -->
+        <test-method signature="verifyLicensing()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@6ca8564a]" started-at="2022-11-01T20:00:02 IST" name="verifyLicensing" finished-at="2022-11-01T20:00:28 IST" duration-ms="25772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLicensing -->
+        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@6ca8564a]" started-at="2022-11-01T20:00:28 IST" name="logOutFromApplication" finished-at="2022-11-01T20:00:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApplication -->
+        <test-method is-config="true" signature="contactWiki()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@6ca8564a]" started-at="2022-11-01T20:00:28 IST" name="contactWiki" finished-at="2022-11-01T20:00:54 IST" duration-ms="25815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactWiki -->
+        <test-method signature="verifyReadersButton()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@6ca8564a]" started-at="2022-11-01T20:00:54 IST" name="verifyReadersButton" finished-at="2022-11-01T20:01:01 IST" duration-ms="6764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReadersButton -->
+        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@6ca8564a]" started-at="2022-11-01T20:01:01 IST" name="logOutFromApplication" finished-at="2022-11-01T20:01:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApplication -->
+        <test-method is-config="true" signature="clearObject()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@6ca8564a]" started-at="2022-11-01T20:01:01 IST" name="clearObject" finished-at="2022-11-01T20:01:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearObject -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@6ca8564a]" started-at="2022-11-01T20:03:42 IST" name="closeBrowser" finished-at="2022-11-01T20:03:44 IST" duration-ms="1638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPack.ToVerifyContactUsPageTestNg -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2022-11-01T20:03:45 IST" name="EdgeTest" finished-at="2022-11-01T20:06:18 IST" duration-ms="153065">
+      <class name="testPack.ToVerifyDetailsInImages">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testPack.ToVerifyDetailsInImages@5fdcaa40]" started-at="2022-11-01T20:04:19 IST" name="launchBrowser" finished-at="2022-11-01T20:04:24 IST" duration-ms="5047" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="creatPOMObjects()[pri:0, instance:testPack.ToVerifyDetailsInImages@5fdcaa40]" started-at="2022-11-01T20:04:56 IST" name="creatPOMObjects" finished-at="2022-11-01T20:04:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatPOMObjects -->
+        <test-method is-config="true" signature="indiaImages()[pri:0, instance:testPack.ToVerifyDetailsInImages@5fdcaa40]" started-at="2022-11-01T20:04:56 IST" name="indiaImages" finished-at="2022-11-01T20:05:33 IST" duration-ms="36133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indiaImages -->
+        <test-method signature="verifyMahatmaGandhiPage()[pri:0, instance:testPack.ToVerifyDetailsInImages@5fdcaa40]" started-at="2022-11-01T20:05:33 IST" name="verifyMahatmaGandhiPage" finished-at="2022-11-01T20:05:51 IST" duration-ms="18295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMahatmaGandhiPage -->
+        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:testPack.ToVerifyDetailsInImages@5fdcaa40]" started-at="2022-11-01T20:05:51 IST" name="logOutFromApplication" finished-at="2022-11-01T20:05:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApplication -->
+        <test-method is-config="true" signature="indiaImages()[pri:0, instance:testPack.ToVerifyDetailsInImages@5fdcaa40]" started-at="2022-11-01T20:05:51 IST" name="indiaImages" finished-at="2022-11-01T20:06:01 IST" duration-ms="10547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indiaImages -->
+        <test-method signature="verifyMoreDetailsButton()[pri:0, instance:testPack.ToVerifyDetailsInImages@5fdcaa40]" started-at="2022-11-01T20:06:01 IST" name="verifyMoreDetailsButton" finished-at="2022-11-01T20:06:16 IST" duration-ms="14239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMoreDetailsButton -->
+        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:testPack.ToVerifyDetailsInImages@5fdcaa40]" started-at="2022-11-01T20:06:16 IST" name="logOutFromApplication" finished-at="2022-11-01T20:06:16 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApplication -->
+        <test-method is-config="true" signature="clearObject()[pri:0, instance:testPack.ToVerifyDetailsInImages@5fdcaa40]" started-at="2022-11-01T20:06:16 IST" name="clearObject" finished-at="2022-11-01T20:06:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearObject -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPack.ToVerifyDetailsInImages@5fdcaa40]" started-at="2022-11-01T20:06:17 IST" name="closeBrowser" finished-at="2022-11-01T20:06:18 IST" duration-ms="1173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPack.ToVerifyDetailsInImages -->
+      <class name="testPack.ToVerifyContactUsPageTestNg">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@15ff3e9e]" started-at="2022-11-01T20:03:45 IST" name="launchBrowser" finished-at="2022-11-01T20:04:19 IST" duration-ms="34123" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="creatPOMObjects()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@15ff3e9e]" started-at="2022-11-01T20:04:24 IST" name="creatPOMObjects" finished-at="2022-11-01T20:04:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatPOMObjects -->
+        <test-method is-config="true" signature="contactWiki()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@15ff3e9e]" started-at="2022-11-01T20:04:24 IST" name="contactWiki" finished-at="2022-11-01T20:04:44 IST" duration-ms="20322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactWiki -->
+        <test-method signature="verifyLicensing()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@15ff3e9e]" started-at="2022-11-01T20:04:44 IST" name="verifyLicensing" finished-at="2022-11-01T20:04:53 IST" duration-ms="8255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLicensing -->
+        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@15ff3e9e]" started-at="2022-11-01T20:04:53 IST" name="logOutFromApplication" finished-at="2022-11-01T20:04:53 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApplication -->
+        <test-method is-config="true" signature="contactWiki()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@15ff3e9e]" started-at="2022-11-01T20:04:53 IST" name="contactWiki" finished-at="2022-11-01T20:04:55 IST" duration-ms="2650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactWiki -->
+        <test-method signature="verifyReadersButton()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@15ff3e9e]" started-at="2022-11-01T20:04:55 IST" name="verifyReadersButton" finished-at="2022-11-01T20:04:56 IST" duration-ms="1257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReadersButton -->
+        <test-method is-config="true" signature="logOutFromApplication()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@15ff3e9e]" started-at="2022-11-01T20:04:56 IST" name="logOutFromApplication" finished-at="2022-11-01T20:04:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApplication -->
+        <test-method is-config="true" signature="clearObject()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@15ff3e9e]" started-at="2022-11-01T20:04:56 IST" name="clearObject" finished-at="2022-11-01T20:04:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearObject -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testPack.ToVerifyContactUsPageTestNg@15ff3e9e]" started-at="2022-11-01T20:06:16 IST" name="closeBrowser" finished-at="2022-11-01T20:06:17 IST" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testPack.ToVerifyContactUsPageTestNg -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite1234 -->
+</testng-results>

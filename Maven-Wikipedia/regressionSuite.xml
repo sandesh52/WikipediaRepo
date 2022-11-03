@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite1234">
+ <!-- <test thread-count="5" name="Test1234">-->
+
+
+<!-- for chrome-->
+<test name="ChromeTest">
+<parameter name="browser" value="Chrome"></parameter>
+    <classes>
+   
+    <class name="testPack.ToVerifyContactUsPageTestNg"/>
+      <class name="testPack.ToVerifyDetailsInImages"/>
+      
+    </classes>
+  </test> <!-- Test1234 -->
+  
+
+ 
+ 
+  
+  <!-- for edge-->
+<test name="EdgeTest">
+<parameter name="browser" value="Edge"></parameter>
+    <classes>
+   
+    <class name="testPack.ToVerifyContactUsPageTestNg"/>
+      <class name="testPack.ToVerifyDetailsInImages"/>
+      
+    </classes>
+  </test> <!-- Test1234 -->  
+  
+  
+</suite> <!-- Suite1234 -->
